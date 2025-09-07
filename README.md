@@ -5,9 +5,10 @@
 </head>
 <body>
 
-<h2>Project Structure:</h2>
 <h1><strong>Neural Network-Based Bank Customer Churn Prediction</strong></h1>
 <p>The notebook focuses on predicting customer churn using a neural network, combining data preprocessing, model training, and evaluation.</p>
+
+<h2><strong>Project Structure:</strong></h2>
 
 <h2>1. Importing Libraries</h2>
 <p>The necessary Python libraries such as <code>numpy</code>, <code>pandas</code>, <code>scikit-learn</code>, and <code>tensorflow</code> are imported for data handling, preprocessing, and neural network modeling.</p>
