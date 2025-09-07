@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Neural Network-Based Bank Customer Churn Prediction - Notebook Overview</title>
+
 </head>
 <body>
 
