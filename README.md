@@ -10,7 +10,7 @@
 
 <h2><strong>Project Structure:</strong></h2>
 
- <h2>1. Libraries used:</h2>
+ <h2>1. Libraries Used</h2>
       <ul>
         <li>Python</li>
         <li>NumPy, Pandas</li>
