@@ -10,8 +10,14 @@
 
 <h2><strong>Project Structure:</strong></h2>
 
-<h2>1. Importing Libraries</h2>
-<p>The necessary Python libraries such as <code>numpy</code>, <code>pandas</code>, <code>scikit-learn</code>, and <code>tensorflow</code> are imported for data handling, preprocessing, and neural network modeling.</p>
+ <h2>1. Libraries used:</h2>
+      <ul>
+        <li>Python</li>
+        <li>NumPy, Pandas</li>
+        <li>Scikit-learn (preprocessing, SMOTE, metrics)</li>
+        <li>TensorFlow / Keras (modeling)</li>
+        <li>Matplotlib (visualization)</li>
+      </ul>
 
 <h2>2. Data Collection and Preprocessing</h2>
 <ul>
@@ -57,7 +63,7 @@
     <li>Handling class imbalance with <strong>SMOTE</strong> contributed significantly to improving recall and AP, ensuring the model treats minority churn cases appropriately.</li>
 </ul>
 <section>
-      <h2>Notes</h2>
+      <p>Notes</p>
       <p>
         This README summarizes the notebook workflow and main findings. For code,
         notebooks, figures, and exact hyperparameters, see the notebook file
