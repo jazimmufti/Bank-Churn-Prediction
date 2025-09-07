@@ -61,7 +61,7 @@
       <p>
         This README summarizes the notebook workflow and main findings. For code,
         notebooks, figures, and exact hyperparameters, see the notebook file
-        (<code>churn_prediction.ipynb</code>) and the scripts in the repository.
+        (<code>ANN.ipynb</code>) and the scripts in the repository.
       </p>
 </section>
 
