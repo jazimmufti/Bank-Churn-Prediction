@@ -56,6 +56,14 @@
     <li>An <strong>AP close to 70%</strong> shows robust prioritization of high-risk customers, making this model well-suited for real-world bank churn prediction applications.</li>
     <li>Handling class imbalance with <strong>SMOTE</strong> contributed significantly to improving recall and AP, ensuring the model treats minority churn cases appropriately.</li>
 </ul>
+<section>
+      <h2>Notes</h2>
+      <p>
+        This README summarizes the notebook workflow and main findings. For code,
+        notebooks, figures, and exact hyperparameters, see the notebook file
+        (<code>churn_prediction.ipynb</code>) and the scripts in the repository.
+      </p>
+</section>
 
 </body>
 </html>
