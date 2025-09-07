@@ -8,7 +8,7 @@
 <h1>Overview</h1>
 
 <h2>1. Title</h2>
-<p><strong>Neural Network-Based Bank Customer Churn Prediction</strong></p>
+<h3><strong>Neural Network-Based Bank Customer Churn Prediction</strong></h3>
 <p>The notebook focuses on predicting customer churn using a neural network, combining data preprocessing, model training, and evaluation.</p>
 
 <h2>2. Importing Libraries</h2>
