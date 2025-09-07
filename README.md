@@ -63,7 +63,7 @@
     <li>Handling class imbalance with <strong>SMOTE</strong> contributed significantly to improving recall and AP, ensuring the model treats minority churn cases appropriately.</li>
 </ul>
 <section>
-      <p>Notes</p>
+      <p>Notes:</p>
       <p>
         This README summarizes the notebook workflow and main findings. For code,
         notebooks, figures, and exact hyperparameters, see the notebook file
