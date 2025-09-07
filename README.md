@@ -5,7 +5,7 @@
 </head>
 <body>
 
-
+<h2>Project Structure:</h2>
 <h1><strong>Neural Network-Based Bank Customer Churn Prediction</strong></h1>
 <p>The notebook focuses on predicting customer churn using a neural network, combining data preprocessing, model training, and evaluation.</p>
 
